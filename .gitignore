@@ -1,0 +1,9 @@
+node_modules
+.rpt2_cache
+babelworkplace
+!rollup.config*
+!utils/*
+*.js.map
+*.jsx.map
+!dist/ThirdParty/*
+!rollup.config*.js
